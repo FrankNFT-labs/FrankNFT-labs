@@ -38,62 +38,6 @@
 
 > system.status(): ONLINE
 ```
-
----
-
-## `$ ls -la ./chapters`
-
-```
-drwxr-xr-x  CHAPTER_I    1988–2008   Belgian Defence & Air Force
-drwxr-xr-x  CHAPTER_II   2008–2017   ING Belgium
-drwxr-xr-x  CHAPTER_III  2017–now    Cronos / Xplore Group / Hyperlabs
-drwxr-xr-x  CHAPTER_IV   2010–now    Blockchain & Web3
-```
-
-### `$ cat ./chapters/CHAPTER_I`
-
-```
-Aircraft Engineer — Fouga Magister & Alpha Jet
-Glider Pilot Instructor — 55 cadets soloed, 75 went cross-country
-Composite materials specialist (Schleicher & Grob)
-IT Instructor @ Defence — Java EE, design patterns, distributed computing
-Graduated 1st / 80 in military IT conversion
-```
-
-### `$ cat ./chapters/CHAPTER_II`
-
-```
-Built the first native mobile banking app in Belgium (ING)
-Senior Java Architect → Team Manager Mobile → Team Manager New Service Platform
-Won the Golden Lion Trophy: 2015, 2016
-Co-founded Devoxx4Kids @ ING
-Ran SYTYCC hackathons for students
-```
-
-### `$ cat ./chapters/CHAPTER_III`
-
-```
-Operations Architect @ Xplore Group
-Co-founded Hyperlabs — Xplore's blockchain brand (2023)
-Delivered 40+ smart contracts across enterprise clients
-Advisory board: Digital Assets @ major Belgian bank
-Speaker: Devoxx Belgium — "Moe Szyslak vs. The Balmer Peak"
-```
-
-### `$ cat ./chapters/CHAPTER_IV`
-
-```
-2010  Mined BTC early. Left when ASICs showed up.
-2017  Returned for Ethereum. Left as ICO hype peaked.
-2021  Back for NFTs. Never left.
-2022  CryptoPunks V1 wrapper — 51K+ ETH total volume
-2022  ERC721F — low-gas NFT standard, open source
-2023  Co-founded We Are Dorkis (pen & pencil, old school)
-2023  Co-founded DAO_The50 — 5000 notifications. No apologies.
-2025  CryptoPunk #4706 (V1/V2) sent to the moon. Literally.
-2026  Agentic AI + Physical AI systems
-```
-
 ---
 
 ## `$ npm list --depth=0 ./deployed-contracts`
@@ -105,7 +49,7 @@ Speaker: Devoxx Belgium — "Moe Szyslak vs. The Balmer Peak"
 | [`We Are Dorkis`](https://opensea.io/collection/dorkisofficial)              | 4,724 hand-drawn NFTs. Pen & pencil. No AI.              | `nft`        |
 | [`Alternate Universes`](https://github.com/FrankNFT-labs/AlternateUniverses) | ERC-1155 wrapper for legacy Portion NFTs.                | `blockchain` |
 | [`Hyperlabs`](https://hyper-labs.digital)                                    | Enterprise blockchain. Smart contracts at scale.         | `web3`       |
-| `DAO_The50`                                                                  | The protest that woke up Foundation's gatekeepers.       | `nft`        |
+
 
 ---
 
