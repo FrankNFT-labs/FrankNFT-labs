@@ -1,0 +1,16 @@
+<svg width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="title">FrankNFT.eth terminal ASCII banner</title>
+  <desc id="desc">Green old-terminal ASCII art reading FrankNFT.eth, still here still building.</desc>
+  <rect width="900" height="210" rx="14" fill="#0D1117"/>
+  <text x="24" y="32" fill="#39FF14" font-size="16" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" xml:space="preserve">
+    <tspan x="24" dy="0">+--------------------------------------------------------------------------------+</tspan>
+    <tspan x="24" dy="20">|     ______              __      _   __ ______ ______                           |</tspan>
+    <tspan x="24" dy="20">|    / ____/_____ ____ _ / /__   / | / // ____//_  __/                           |</tspan>
+    <tspan x="24" dy="20">|   / /_   / ___// __ `// //_/  /  |/ // /_     / /                              |</tspan>
+    <tspan x="24" dy="20">| / __/  / /   / /_/ // ,&lt;    / /|  // __/    / /                                |</tspan>
+    <tspan x="24" dy="20">| /_/    /_/    \__,_//_/|_|  /_/ |_//_/      /_/                                |</tspan>
+    <tspan x="24" dy="20">|                                                                                |</tspan>
+    <tspan x="24" dy="20">|                  FrankNFT.eth :: still here. still building.                   |</tspan>
+    <tspan x="24" dy="20">+--------------------------------------------------------------------------------+</tspan>
+  </text>
+</svg>
