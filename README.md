@@ -34,38 +34,6 @@
 
 ---
 
-## `$ npm list --depth=0 ./deployed-contracts`
-
-| module                                                                       | description                                              | tag          |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------- | ------------ |
-| [`ERC721F`](https://github.com/FrankNFT-labs/ERC721F)                        | Low-gas NFT contract template. Now an industry standard. | `blockchain` |
-| [`CryptoPunks V1 Wrapper`](https://opensea.io/collection/official-v1-punks)  | Wrapped the original 2017 Punks. 51K+ ETH volume.        | `nft`        |
-| [`We Are Dorkis`](https://opensea.io/collection/dorkisofficial)              | 4,724 hand-drawn NFTs. Pen & pencil. No AI.              | `nft`        |
-| [`Alternate Universes`](https://github.com/FrankNFT-labs/AlternateUniverses) | ERC-1155 wrapper for legacy Portion NFTs.                | `blockchain` |
-| [`Hyperlabs`](https://hyper-labs.digital)                                    | Enterprise blockchain. Smart contracts at scale.         | `web3`       |
-
----
-
-## `$ cat ./event.log | grep "STAGE"`
-
-```
-[2026] STAGE  NFC Summit — Lisbon        The Death of the Human Middleman: AI Agents & RWAs
-[2026] STAGE  Dappconn — Berlin          The Death of the Human Middleman: AI Agents & RWAs
-[2025] STAGE  NFC Summit — Lisbon        Mass Adoption: The Final Frontier
-[2024] STAGE  NFT Tallinn (Banana Conf)  ERC-6551 Token-Bound Accounts
-[2024] STAGE  ETHcc 0x499 — Brussels     Decentralized Masterpieces
-[2024] STAGE  ETH Dublin                 NFT panel w/ John Crain
-[2024] STAGE  Non Fungible Conf Lisbon   Soulbound Tokens
-[2023] STAGE  NFT.NYC                    The Future of NFTs & Their Regenerative Role
-[2023] STAGE  Nordic Blockchain — CPH    Soulbound Tokens
-[2023] STAGE  NFT Fest Lugano            Ordinals or NFTs?
-[2022] STAGE  NFT.NYC                    Low-gas NFT Contracts
-[2022] STAGE  NFT.London                 ERC721F
-[2018] STAGE  Devoxx Belgium             Moe Szyslak vs. The Balmer Peak
-```
-
----
-
 ## `$ forge install ./stack`
 
 <div align="center">
@@ -122,14 +90,3 @@ mode          still here. still building.
 </div>
 
 ---
-
-<div align="center">
-
-```
-> uptime: 35+ years in tech
-> kernel: curiosity
-> shell: always building
-> last login: now
-```
-
-</div>
