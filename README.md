@@ -1,12 +1,13 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗ ███╗   ██╗██╗  ██╗   ███╗   ██╗███████╗████████╗
-██╔════╝ ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝   ████╗  ██║██╔════╝╚══██╔══╝
-█████╗   ██████╔╝███████║██╔██╗ ██║█████╔╝    ██╔██╗ ██║█████╗     ██║
-██╔══╝   ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗    ██║╚██╗██║██╔══╝     ██║
-██║      ██║  ██║██║  ██║██║ ╚████║██║  ██╗██╗██║ ╚████║██║        ██║
-╚═╝      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝        ╚═╝
++--------------------------------------------------------------------------+
+| FFFFFFFF  RRRRRR     AAA    NN   NN  KK  KK  NN   NN  FFFFFFFF  TTTTTTTT |
+| FF        RR   RR   AAAAA   NNN  NN  KK KK   NNN  NN  FF           TT    |
+| FFFFFF    RRRRRR   AA   AA  NN N NN  KKKK    NN N NN  FFFFFF       TT    |
+| FF        RR  RR   AAAAAAA  NN  NNN  KK KK   NN  NNN  FF           TT    |
+| FF        RR   RR  AA   AA  NN   NN  KK  KK  NN   NN  FF           TT    |
++--------------------------------------------------------------------------+
 ```
 
 <a href="https://git.io/typing-svg">
@@ -38,6 +39,7 @@
 
 > system.status(): ONLINE
 ```
+
 ---
 
 ## `$ npm list --depth=0 ./deployed-contracts`
@@ -49,7 +51,6 @@
 | [`We Are Dorkis`](https://opensea.io/collection/dorkisofficial)              | 4,724 hand-drawn NFTs. Pen & pencil. No AI.              | `nft`        |
 | [`Alternate Universes`](https://github.com/FrankNFT-labs/AlternateUniverses) | ERC-1155 wrapper for legacy Portion NFTs.                | `blockchain` |
 | [`Hyperlabs`](https://hyper-labs.digital)                                    | Enterprise blockchain. Smart contracts at scale.         | `web3`       |
-
 
 ---
 
