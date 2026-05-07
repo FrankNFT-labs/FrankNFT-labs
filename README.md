@@ -97,13 +97,14 @@
 
 ## `$ cat /proc/metrics`
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankNFT-labs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=39FF14&ring_color=39FF14)](https://github.com/FrankNFT-labs)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankNFT-labs&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14)](https://github.com/FrankNFT-labs)
-
-</div>
+```
+identity      FrankNFT.eth
+uptime        35+ years in technology
+contracts     40+ smart contracts deployed
+languages     Java | Solidity | Python | TypeScript | React
+systems       aircraft | banking | blockchain | agentic AI
+mode          still here. still building.
+```
 
 ---
 
