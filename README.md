@@ -1,13 +1,15 @@
 <div align="center">
 
 ```
-+--------------------------------------------------------------------------+
-| FFFFFFFF  RRRRRR     AAA    NN   NN  KK  KK  NN   NN  FFFFFFFF  TTTTTTTT |
-| FF        RR   RR   AAAAA   NNN  NN  KK KK   NNN  NN  FF           TT    |
-| FFFFFF    RRRRRR   AA   AA  NN N NN  KKKK    NN N NN  FFFFFF       TT    |
-| FF        RR  RR   AAAAAAA  NN  NNN  KK KK   NN  NNN  FF           TT    |
-| FF        RR   RR  AA   AA  NN   NN  KK  KK  NN   NN  FF           TT    |
-+--------------------------------------------------------------------------+
++--------------------------------------------------------------------------------+
+|    ______              __      _   __ ______ ______                            |
+|   / ____/_____ ____ _ / /__   / | / // ____//_  __/                            |
+|  / /_   / ___// __ `// //_/  /  |/ // /_     / /                               |
+| / __/  / /   / /_/ // ,<    / /|  // __/    / /                                |
+| /_/    /_/    \__,_//_/|_|  /_/ |_//_/      /_/                                |
+|                                                                                |
+|                  FrankNFT.eth :: still here. still building.                   |
++--------------------------------------------------------------------------------+
 ```
 
 <a href="https://git.io/typing-svg">
