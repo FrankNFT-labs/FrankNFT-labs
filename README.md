@@ -3,7 +3,7 @@
 <img src="./assets/franknft-ascii.svg" alt="FrankNFT.eth terminal ASCII banner" width="900" />
 </div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Aircraft+Engineer+%E2%86%92+Java+Architect+%E2%86%92+Blockchain+OG.;Trained+55+cadets+to+their+first+solo+flight.;Built+the+CryptoPunks+V1+wrapper.;Sent+a+CryptoPunk+pair+to+the+moon.;40%2B+smart+contracts+deployed.;I+mined+Bitcoin+before+it+was+cool.+I+was+wrong+to+stop.;ERC721F%3A+an+industry+standard+born+from+stubbornness.;Still+here.+Still+building." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Aircraft+Engineer+%E2%86%92+Java+Architect+%E2%86%92+Blockchain+OG.;Trained+55+cadets+to+their+first+solo+flight.;Skynet+is+coming+(for+you);Built+the+CryptoPunks+V1+wrapper.;Sent+a+CryptoPunk+pair+to+the+moon.;40%2B+smart+contracts+deployed.;I+mined+Bitcoin+before+it+was+cool.+I+was+wrong+to+stop.;ERC721F%3A+an+industry+standard+born+from+stubbornness.;Still+here.+Still+building." alt="typing" />
 </a>
 
 </div>
