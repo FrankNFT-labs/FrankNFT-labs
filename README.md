@@ -26,6 +26,10 @@
 [![Linux](https://skills.syvixor.com/api/icons?i=linux)](https://www.linux.org)
 [![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql)](https://www.postgresql.org)
 [![Tailwind](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://tailwindcss.com)
+[![Objective-C](https://skills.syvixor.com/api/icons?i=objectivec)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+[![Swift](https://skills.syvixor.com/api/icons?i=swift)](https://swift.org)
+[![Xcode](https://skills.syvixor.com/api/icons?i=xcode)](https://developer.apple.com/xcode/)
+[![OpenCode](https://skills.syvixor.com/api/icons?i=opencode)](https://opencode.ai)
 
 </div>
 
