@@ -33,6 +33,7 @@
 [![iOS](https://skills.syvixor.com/api/icons?i=ios)](https://www.apple.com/ios/)
 [![OpenCode](https://skills.syvixor.com/api/icons?i=opencode)](https://opencode.ai)
 [![Cursor](https://skills.syvixor.com/api/icons?i=cursor)](https://cursor.sh)
+[![Claude AI](https://skills.syvixor.com/api/icons?i=claudeai)](https://claude.ai)
 [![Vercel](https://skills.syvixor.com/api/icons?i=vercel)](https://vercel.com)
 [![Bitbucket](https://skills.syvixor.com/api/icons?i=bitbucket)](https://bitbucket.org)
 
