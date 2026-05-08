@@ -48,7 +48,7 @@ mode          still here. still building.
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/FrankNFT-labs/FrankNFT-labs/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/FrankNFT-labs/FrankNFT-labs/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
