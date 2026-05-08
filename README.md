@@ -30,6 +30,7 @@
 [![Swift](https://skills.syvixor.com/api/icons?i=swift)](https://swift.org)
 [![Xcode](https://skills.syvixor.com/api/icons?i=xcode)](https://developer.apple.com/xcode/)
 [![OpenCode](https://skills.syvixor.com/api/icons?i=opencode)](https://opencode.ai)
+[![Vercel](https://skills.syvixor.com/api/icons?i=vercel)](https://vercel.com)
 
 </div>
 
