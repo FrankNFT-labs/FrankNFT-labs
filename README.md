@@ -10,30 +10,6 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              SYSTEM BOOT — FrankNFT.eth / v2026.05              ║
-╚══════════════════════════════════════════════════════════════════╝
-
-[  OK  ] Loaded unit: Belgian Air Force (1988–2008)
-[  OK  ] Loaded unit: ING Belgium Mobile Banking (2008–2017)
-[  OK  ] Loaded unit: Xplore Group / Hyperlabs (2017–present)
-[  OK  ] Loaded unit: Blockchain & Web3 (2010–present)
-[  OK  ] Mounted: frankponcelet.com
-[ WARN ] Bitcoin node: halted (2010). Reason: ASICs. Known issue.
-[  OK  ] Reconnected: Ethereum mainnet (2017)
-[ WARN ] Ethereum node: halted (2018). Reason: ICO hype. Temporary.
-[  OK  ] Reconnected: NFT layer (2021) — PERMANENT
-[  OK  ] CryptoPunks V1 wrapper: deployed ✓
-[  OK  ] ERC721F: deployed, open-sourced, adopted ✓
-[  OK  ] MoonMars mission: CryptoPunk #4706 (V1/V2) — surface confirmed ✓
-[  OK  ] Agentic AI systems: initializing...
-
-> system.status(): ONLINE
-```
-
----
-
 ## `$ forge install ./stack`
 
 <div align="center">
