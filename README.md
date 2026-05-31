@@ -34,6 +34,7 @@
 [![OpenCode](https://skills.syvixor.com/api/icons?i=opencode)](https://opencode.ai)
 [![Cursor](https://skills.syvixor.com/api/icons?i=cursor)](https://cursor.sh)
 [![Claude AI](https://skills.syvixor.com/api/icons?i=claudeai)](https://claude.ai)
+[![Codex](https://skills.syvixor.com/api/icons?perline=15&i=codex)]([https://claude.ai](https://developers.openai.com/))
 [![Vercel](https://skills.syvixor.com/api/icons?i=vercel)](https://vercel.com)
 [![Bitbucket](https://skills.syvixor.com/api/icons?i=bitbucket)](https://bitbucket.org)
 
