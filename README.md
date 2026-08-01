@@ -12,13 +12,14 @@
 
 ## `$ whoami`
 
-**Frank Poncelet** — aka **FrankNFT.eth** — software architect and Web3 developer
-from Belgium. Aircraft engineer turned fintech pioneer turned blockchain OG:
-built one of Belgium's first mobile banking apps, wrote the **CryptoPunks V1
-wrapper**, and authored [ERC721F](https://github.com/FrankNFT-labs/ERC721F) — a
-gas-optimized ERC-721 extension. Speaker on Web3 and agentic AI.
+Frank Poncelet, better known on-chain as FrankNFT.eth. Software architect and
+Web3 developer from Belgium. I started out fixing aircraft, helped build one of
+Belgium's first mobile banking apps, then fell down the blockchain rabbit hole
+and stayed there: I wrote the CryptoPunks V1 wrapper and
+[ERC721F](https://github.com/FrankNFT-labs/ERC721F), a gas-optimized ERC-721
+extension. These days I speak at conferences about Web3 and agentic AI.
 
-More at **[frankponcelet.com](https://frankponcelet.com)**
+The long version is at [frankponcelet.com](https://frankponcelet.com).
 
 ---
 
